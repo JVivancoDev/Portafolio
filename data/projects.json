@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Kolenka Lashes",
+        "domain": "kolenkabooking.web.app",
+        "description": "Sistema completo de agendamiento online para salón de belleza.",
+        "features": [
+            "Integración con Google Apps Script & Calendar API",
+            "Procesamiento automático de imágenes con Python",
+            "Panel de administración privado",
+            "Recordatorios automáticos"
+        ],
+        "image": "img/Kolenka.png",
+        "icon": "💅",
+        "color": "cyan",
+        "live": "#",
+        "gallery": "#"
+    },
+    {
+        "name": "Jardín Oasis",
+        "domain": "jardinoasis.cl",
+        "description": "Catálogo digital dinámico para empresa de paisajismo.",
+        "features": [
+            "Catálogo en tiempo real",
+            "Backend con Google Sheets",
+            "Formulario con SQL",
+            "Diseño mobile-first"
+        ],
+        "image": "img/Oasis.png",
+        "icon": "🌿",
+        "color": "magenta",
+        "live": "https://jvivancodev.github.io/JardinOasis/",
+        "gallery": "#"
+    },
+    {
+        "name": "Lienzo Estudio",
+        "domain": "lienzastudio.cl",
+        "description": "Portafolio para estudio de arquitectura.",
+        "features": [
+            "Gestión de proyectos",
+            "Integración con Apps Script",
+            "Procesamiento de imágenes",
+            "Panel privado"
+        ],
+        "image": "img/Lienza.png",
+        "icon": "🏡",
+        "color": "cyan",
+        "live": "https://jvivancodev.github.io/LienzaEstudio/",
+        "gallery": "#"
+    }
+]

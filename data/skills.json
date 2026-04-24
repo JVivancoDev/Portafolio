@@ -1,0 +1,62 @@
+[
+  {
+    "icon": "🐍",
+    "name": "Python",
+    "sub": "Automatización & Data",
+    "type": "c"
+  },
+  {
+    "icon": "🗃️",
+    "name": "SQL",
+    "sub": "Bases de datos",
+    "type": "c"
+  },
+  {
+    "icon": "🤖",
+    "name": "UiPath RPA",
+    "sub": "Robotic Process Auto.",
+    "type": "m"
+  },
+  {
+    "icon": "⚡",
+    "name": "JavaScript",
+    "sub": "Frontend & Lógica",
+    "type": "c"
+  },
+  {
+    "icon": "🎨",
+    "name": "HTML/CSS",
+    "sub": "Interfaces web",
+    "type": "c"
+  },
+  {
+    "icon": "📊",
+    "name": "Apps Script",
+    "sub": "Google Workspace",
+    "type": "m"
+  },
+  {
+    "icon": "🧠",
+    "name": "Claude Code",
+    "sub": "IA Dev & Agentes",
+    "type": "w"
+  },
+  {
+    "icon": "📅",
+    "name": "Calendar API",
+    "sub": "Integración Google",
+    "type": "m"
+  },
+  {
+    "icon": "📊",
+    "name": "Google Sheets API",
+    "sub": "Integración Google",
+    "type": "w"
+  },
+  {
+    "icon": "🌐",
+    "name": "Hosting Web",
+    "sub": "Integración Google",
+    "type": "m"
+  }
+]
